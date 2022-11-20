@@ -1,0 +1,9 @@
+.board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.kbd-navigation .square:focus {
+    background: #ddd;
+}
